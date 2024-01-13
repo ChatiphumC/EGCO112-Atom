@@ -1,4 +1,4 @@
-01 - Passing Value using pointer
-02 - Bubble Sort
-03 - Selection Sort
-04 - Insertion Sort
+<h1> 01 - Passing Value using pointer </h1>
+<h1> 02 - Bubble Sort </h1>
+<h1> 03 - Selection Sort </h1>
+<h1> 04 - Insertion Sort </h1>
